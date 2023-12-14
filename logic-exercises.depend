@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1702567837 source:c:\users\sabri\desktop\c++\logic-exercises\main.cpp
+	"functions.cpp"
+
+1702567807 c:\users\sabri\desktop\c++\logic-exercises\functions.cpp
+	<iostream>
+
