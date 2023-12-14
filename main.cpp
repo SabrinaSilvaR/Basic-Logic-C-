@@ -2,7 +2,14 @@
 
 int main()
 {
-   guessNumber();
+    add();
+    subtract();
+    multiply();
+    divide();
+    factorial();
+    primerNumber();
+    converter();
+    guessNumber();
 
     return 0;
 }
